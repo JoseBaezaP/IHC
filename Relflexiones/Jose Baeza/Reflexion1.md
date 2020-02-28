@@ -1,4 +1,4 @@
-#Reflection of the research   
+# Reflection of the research   
 In the first weeks to start this course we had to read about a research article, I chose one that talked about the   
 analysis of eye fixations during a visual comparison task to measure the novelty preference, this experiment was   
 based on a tracker, which tracked their appearance in some images that appeared on the screen, in this way they   
