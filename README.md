@@ -23,7 +23,7 @@ pero hay nada con el fin de poder ayudar a esta población para mejorar academic
 ___
 
 Ya despues de todo la investigación realizado pudimos indentificar a dos personas involucradas para el desarrollo de este proyecto
-los cuales serian **maestros** y **alumnos**. Estas personas quedarían de la siguiente manera:
+las personas con las que trabajaremos serían **maestros** y **alumnos**. Estas personas quedarían de la siguiente manera:
 
 
 
@@ -42,7 +42,7 @@ la compra", despúes de esta idea, nos surgió ciertas ideas generales para el p
 
 | R001   |      Menú principal     |  
 |----------|:-------------:|
-| Descripción | Al iniciar el sistema se econtrarán las materias relacionadas al plan didáctico, despúes de esta elección, se encontrarán los temas de esa materia seleccionada|
+| Descripción | Al iniciar el sistema se econtrarán las materias relacionadas al plan didáctico, despúes de esta elección, se encontrarán los temas de esa materia seleccionada.|
 
 ***
 
@@ -53,7 +53,7 @@ la compra", despúes de esta idea, nos surgió ciertas ideas generales para el p
 ***
 | R003   |      Traductor de instrucción.      |  
 |----------|:-------------:|
-| Descripción | Cuando el alumnos no entienda la instrucción ellos podrá elegir esta instruccíón y se les mostrará un pequeño video en LSM respecto a lo que deben des hacer en el ejercicio |
+| Descripción | Cuando el alumnos no entienda la instrucción ellos podrá elegir esta instruccíón y se les mostrará un pequeño video en LSM respecto a lo que deben des hacer en el ejercicio. |
 
 ___
 
