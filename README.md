@@ -31,7 +31,7 @@ ___
 ## Planeación
 
 La forma que nosotros usamos para poder fue en base a encuestas, ya que esto nos ayudo a poder identificar datos especificos de los alumnos y maestros. Los cuales fueron muy importantes debido
-a que notamos particularidades en tanto a niños como maestros (las todas las entrevistas se encuentran en el siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Entrevistas)), gracias a esto pudimos notar lo siguiente:
+a que notamos particularidades en tanto a niños como maestros (las todas las entrevistas se encuentran en el siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Entrevistas)), gracias a esto pudimos notar lo siguiente:   
 ![](https://github.com/JoseBaezaP/IHC/blob/master/Entrevistas/graficas/imagenes/Alumnos%201.PNG)
 ![](https://github.com/JoseBaezaP/IHC/blob/master/Entrevistas/graficas/imagenes/Alumnos%202.PNG)
 ![](https://github.com/JoseBaezaP/IHC/blob/master/Entrevistas/graficas/imagenes/Alumnos%203.PNG)
@@ -42,7 +42,7 @@ Con esto podemos ver que muchos de estos niños tinen detalles practicamente en 
 ya que prefieren materiales didacticos para poder entender mejor los temas. Es por ello que el sistema que deseamos realizar sea usado en el CAM, para
 que las maestras ya que tiene ventaja debido a que la mayoria de ellas usan sus computadoras, tabletas o telefonos para dar clase, es por ellos que se piensa
 crear este sistema para poder ayudar a las maestras y que los niños le tomen mucho más interes en aprender.
-Es posible que dicho sistema pueda ser usado por los niños para que ellos puedan repasar ciertos temas que deseen reforzar antes de ir a sus clases regulares o para poder tener practicar e ir con mas ideas o dudas especificas antes de ir al CAM. 
+Es posible que dicho sistema pueda ser usado por los niños para que ellos puedan repasar ciertos temas que deseen reforzar antes de ir a sus clases regulares o para poder tener practicar e ir con mas ideas o dudas especificas antes de ir al CAM.   
 *Si desea ver todas las graficas puede entrar al siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Entrevistas/graficas)*
 
 ## Personas
