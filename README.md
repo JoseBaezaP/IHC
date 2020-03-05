@@ -53,7 +53,8 @@ Para poder realizar las nuevas actividades tenemos asignados los siguientes día
 
 Ya despues de todo la investigación realizado pudimos indentificar a dos personas involucradas para el desarrollo de este proyecto
 las personas con las que trabajaremos serían **maestros** y **alumnos**. Estas personas quedarían de la siguiente manera:
-
+![Persona alumno](https://github.com/JoseBaezaP/IHC/blob/master/Imagenes/personas/Student%20Persona.png)
+![Persona maestro](https://github.com/JoseBaezaP/IHC/blob/master/Imagenes/personas/Teacher%20Persona.png)
 ___
 
 # Requisitos
@@ -89,22 +90,23 @@ La forma en la cual decimos medir el trabajo realizado entre nosostros fue de la
 Porcentaje trabajado=(numero de actividades realizadas + reuniones asistidas/numero de total trabajos asignados + reuniones totales)/4   
 ***
 #### Reuniones
-- 1. Primera reunion en CAM 12.
-- 2. Solicitud de oficios.
-- 3. Entrega de oficios a la direcctora de CAM 12.
-- 4. Planeacion de actividade con la directora.
-- 5. realizacion de encuestas.
+- 1 Primera reunion en CAM 12.
+- 2 Solicitud de oficios.
+- 3 Entrega de oficios a la direcctora de CAM 12.
+- 4 Planeacion de actividade con la directora.
+- 5 realizacion de encuestas.
 
 #### Actividades
-- 1. Busqueda de información
-- 2. Creacion de encuestas.
-- 3. Aplicación de las encuestas
+- 1 Busqueda de información
+- 2 Creacion de encuestas.
+- 3 Aplicación de las encuestas   
+
 | Nombre   |      Metrica     |   Porcentaje   |  
 |:--------:|:----------------:|:-----:|
-| Leonardo | ((3+4)/(3+5))/4  | 22  |
-| Jose     | ((3+5)/(3+5))/4  | 25  |
-| Ariel    | ((3+5)/(3+5))/4  | 25  |
-| Nicolas  | ((3+4)/(3+5))/4  | 22  |
+| Leonardo | (((3+4)/(3+5))/4)+.01  | 23  |
+| Jose     | (((3+5)/(3+5))/4)+.01  | 26  |
+| Ariel    | (((3+5)/(3+5))/4)+.01  | 26  |
+| Nicolas  | (((3+4)/(3+5))/4)+.01  | 23  |
 
 
 
