@@ -87,7 +87,18 @@ ___
 
 La forma en la cual decimos medir el trabajo realizado entre nosostros fue de la siguiente forma:   
 Porcentaje trabajado=(numero de actividades realizadas + reuniones asistidas/numero de total trabajos asignados + reuniones totales)/4   
+***
+#### Reuniones
+- 1. Primera reunion en CAM 12.
+- 2. Solicitud de oficios.
+- 3. Entrega de oficios a la direcctora de CAM 12.
+- 4. Planeacion de actividade con la directora.
+- 5. realizacion de encuestas.
 
+#### Actividades
+- 1. Busqueda de información
+- 2. Creacion de encuestas.
+- 3. Aplicación de las encuestas
 | Nombre   |      Metrica     |   Porcentaje   |  
 |:--------:|:----------------:|:-----:|
 | Leonardo | ((3+4)/(3+5))/4  | 22  |
