@@ -21,12 +21,23 @@ pero hay nada con el fin de poder ayudar a esta población para mejorar academic
 ### Principal propuesta 
 **Desarrollar un sistema tomando como ejemplo el plan educativo manejado en el centro de usos multiples CAM 12, con el fin de mejorar la metodologia de aprendizaje utilizadó para los niños con limitante auditiva.**
 ___
+## Planeación
+
+La forma que nosotros usamos para poder fue en base a encuestas, ya que esto nos ayudo a poder identificar datos especificos de los alumnos y maestros. Los cuales fueron muy importantes debido
+a que notamos particularidades en tanto a niños como maestros (las todas las entrevistas se encuentran en el siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Entrevistas)), las preguntas que hicimos las tomamos
+de esta [plantilla](), gracias a esto pudimos notar lo siguiente:
+![imagen de graficas]()
+
+Con esto podemos ver que muchos de estos niños tinen detalles practicamente en las mismas materias y prefieren aprender de manera practica las cosas,
+ya que prefieren materiales didacticos para poder entender mejor los temas. Es por ello que el sistema que deseamos realizar sea usado en el CAM, para
+que las maestras ya que tiene ventaja debido a que la mayoria de ellas usan sus computadoras, tabletas o telefonos para dar clase, es por ellos que se piensa
+crear este sistema para poder ayudar a las maestras y que los niños le tomen mucho más interes en aprender.
+Es posible que dicho sistema pueda ser usado por los niños para que ellos puedan repasar ciertos temas que deseen reforzar antes de ir a sus clases regulares o para poder tener practicar e ir con mas ideas o dudas especificas antes de ir al CAM. 
+
+## Personas
 
 Ya despues de todo la investigación realizado pudimos indentificar a dos personas involucradas para el desarrollo de este proyecto
 las personas con las que trabajaremos serían **maestros** y **alumnos**. Estas personas quedarían de la siguiente manera:
-
-
-
 
 ___
 
@@ -56,5 +67,7 @@ la compra", despúes de esta idea, nos surgió ciertas ideas generales para el p
 | Descripción | Cuando el alumnos no entienda la instrucción ellos podrá elegir esta instruccíón y se les mostrará un pequeño video en LSM respecto a lo que deben des hacer en el ejercicio. |
 
 ___
+
+
 
 
