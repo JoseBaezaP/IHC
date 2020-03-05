@@ -44,7 +44,9 @@ que las maestras ya que tiene ventaja debido a que la mayoria de ellas usan sus 
 crear este sistema para poder ayudar a las maestras y que los niños le tomen mucho más interes en aprender.
 Es posible que dicho sistema pueda ser usado por los niños para que ellos puedan repasar ciertos temas que deseen reforzar antes de ir a sus clases regulares o para poder tener practicar e ir con mas ideas o dudas especificas antes de ir al CAM.   
 *Si desea ver todas las graficas puede entrar al siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Entrevistas/graficas)*   
-Para poder realizar las nuevas actividades tenemos asignados los siguientes días
+Para poder realizar las nuevas actividades tenemos asignados los siguientes días:
+![](https://github.com/JoseBaezaP/IHC/blob/master/Imagenes/Calendario/Calendario%201.jpeg)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Imagenes/Calendario/Calendario%202.jpeg)
 
 
 ## Personas
@@ -87,11 +89,11 @@ La forma en la cual decimos medir el trabajo realizado entre nosostros fue de la
 Porcentaje trabajado=(numero de actividades realizadas + reuniones asistidas/numero de total trabajos asignados + reuniones totales)/4   
 
 | Nombre   |      Metrica     |   Porcentaje   |  
-|----------|:-------------:|
-| Leonardo | ((3+4)/(3+5))/4  | 22  |
-| Jose     | ((3+5)/(3+5))/4  | 25  |
-| Ariel    | ((3+5)/(3+5))/4  | 25  |
-| Nicolas  | ((3+4)/(3+5))/4  | 22  |
+|----------|:-------------:|   
+| Leonardo | ((3+4)/(3+5))/4  | 22  |   
+| Jose     | ((3+5)/(3+5))/4  | 25  |   
+| Ariel    | ((3+5)/(3+5))/4  | 25  |   
+| Nicolas  | ((3+4)/(3+5))/4  | 22  |   
 
 
 
