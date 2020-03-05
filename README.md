@@ -13,6 +13,7 @@ Al estar recopilando datos, platicando con maestros y alumnos, hemos podido inde
 + Presentan problemas para poder poder abstraer la información del mundo real al mundo empirico.
 + Tratan de mejorar como persona para poder superarse y tratar de entender temas que les cueste mucho trabajo comprender.
 + Muchos de ellos son hijos de padres y/o con descendencia de familiares sordos, esto lleva a que solo sepan LSM y tengan difcultades al leer y al escribir.   
+   
 Existen ciertas aplicaciones con relación a la ejercicios practicos para poder practicar temas con respecto a metematicas   
 y español, como podría ser Tangram, Agnitus. mindomo, DotToDot numbers & letters, etc. pero ninguno de estos tiene esa pequeña   
 parte de inclusion. A partir de esta pequeña investigación para poder ver aplicaciones similares que toquen el tema de inclsión   
