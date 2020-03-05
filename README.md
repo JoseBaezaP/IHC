@@ -43,7 +43,9 @@ ya que prefieren materiales didacticos para poder entender mejor los temas. Es p
 que las maestras ya que tiene ventaja debido a que la mayoria de ellas usan sus computadoras, tabletas o telefonos para dar clase, es por ellos que se piensa
 crear este sistema para poder ayudar a las maestras y que los niños le tomen mucho más interes en aprender.
 Es posible que dicho sistema pueda ser usado por los niños para que ellos puedan repasar ciertos temas que deseen reforzar antes de ir a sus clases regulares o para poder tener practicar e ir con mas ideas o dudas especificas antes de ir al CAM.   
-*Si desea ver todas las graficas puede entrar al siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Entrevistas/graficas)*
+*Si desea ver todas las graficas puede entrar al siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Entrevistas/graficas)*   
+Para poder realizar las nuevas actividades tenemos asignados los siguientes días
+
 
 ## Personas
 
