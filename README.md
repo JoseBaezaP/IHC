@@ -103,10 +103,10 @@ Porcentaje trabajado=(numero de actividades realizadas + reuniones asistidas/num
 
 | Nombre   |      Metrica     |   Porcentaje   |  
 |:--------:|:----------------:|:-----:|
-| Leonardo | (((3+4)/(3+5))/4)+.01  | 23  |
+| Leonardo | (((3+4)/(3+5))/4)+.01  | 24  |
 | Jose     | (((3+5)/(3+5))/4)+.01  | 26  |
 | Ariel    | (((3+5)/(3+5))/4)+.01  | 26  |
-| Nicolas  | (((3+4)/(3+5))/4)+.01  | 23  |
+| Nicolas  | (((3+4)/(3+5))/4)+.01  | 24  |
 
 
 
