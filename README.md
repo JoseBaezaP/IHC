@@ -89,11 +89,11 @@ La forma en la cual decimos medir el trabajo realizado entre nosostros fue de la
 Porcentaje trabajado=(numero de actividades realizadas + reuniones asistidas/numero de total trabajos asignados + reuniones totales)/4   
 
 | Nombre   |      Metrica     |   Porcentaje   |  
-|----------|:-------------:|   
-| Leonardo | ((3+4)/(3+5))/4  | 22  |   
-| Jose     | ((3+5)/(3+5))/4  | 25  |   
-| Ariel    | ((3+5)/(3+5))/4  | 25  |   
-| Nicolas  | ((3+4)/(3+5))/4  | 22  |   
+|:--------:|:----------------:|:-----:|
+| Leonardo | ((3+4)/(3+5))/4  | 22  |
+| Jose     | ((3+5)/(3+5))/4  | 25  |
+| Ariel    | ((3+5)/(3+5))/4  | 25  |
+| Nicolas  | ((3+4)/(3+5))/4  | 22  |
 
 
 
