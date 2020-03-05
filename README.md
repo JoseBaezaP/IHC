@@ -19,5 +19,42 @@ y español, como podría ser Tangram, Agnitus. mindomo, DotToDot numbers & lette
 similares que toquen el tema de inclusión para gente sorda, pudimos ver un aplicacion llamada "Dilo con Señas" la cual fue desarrollada con el fin de comprender ciertas como decir ciertas cosas en lenguaje de señas, 
 pero hay nada con el fin de poder ayudar a esta población para mejorar academicamente. 
 ### Principal propuesta 
-Desarrollar un sistema tomando como ejemplo el plan educativo manejado en el centro de usos multiples CAM 12, con el fin de mejorar la metodologia de aprendizaje   
-utilizadó para los niños con limitante auditiva.
+**Desarrollar un sistema tomando como ejemplo el plan educativo manejado en el centro de usos multiples CAM 12, con el fin de mejorar la metodologia de aprendizaje utilizadó para los niños con limitante auditiva.**
+___
+
+Ya despues de todo la investigación realizado pudimos indentificar a dos personas involucradas para el desarrollo de este proyecto
+los cuales serian **maestros** y **alumnos**. Estas personas quedarían de la siguiente manera:
+
+
+
+
+___
+
+# Requisitos
+Para la elaboración de este sistema, la dirección de centro de usos múltiples nos asignó a una maestra con la cual trabajaremos 
+a lo largo de este proyecto.   
+Al estar platicando con esta maestra, nos dío la oportunidad de ver su plan didáctico con la finalidad de plantear alguna idea
+de los futuros temas que verá con su grupo. De aqui surge una primera idea la cual es una "tienda virtual" la cual los alumnos
+podrán elegir ciertos productos y despúes de hacer esto, ellos tendrán que dar el resultado de la suma, si este es correcto 
+se le avisará al alumnos y si no tratarán de escribir el resultado de la suma o que ellos regresen a la tienda o puedan "cancelar 
+la compra", despúes de esta idea, nos surgió ciertas ideas generales para el proyecto en asi, las cuales se presentarán acontinuación.
+
+
+| R001   |      Menú principal     |  
+|----------|:-------------:|
+| Descripción | Al iniciar el sistema se econtrarán las materias relacionadas al plan didáctico, despúes de esta elección, se encontrarán los temas de esa materia seleccionada|
+
+***
+
+| R002   |     Esquema del tema elegido      |  
+|----------|:-------------:|
+| Descripción | Al elegir un tema, este tendrá un pequeño turial refenrente al tema y despúes de eso se le adentrara al ejercicio. |
+
+***
+| R003   |      Traductor de instrucción.      |  
+|----------|:-------------:|
+| Descripción | Cuando el alumnos no entienda la instrucción ellos podrá elegir esta instruccíón y se les mostrará un pequeño video en LSM respecto a lo que deben des hacer en el ejercicio |
+
+___
+
+
