@@ -54,11 +54,11 @@ Un nuevo objetivo del proyectos con los reajustes necesarios. Dadas las circunst
 ---
 
 
-#### Miercoles 25 de marzo {#act3}
+#### Jueves 26 de marzo {#act3}
 
 #### Actividad: Reunion con la Maestra. 
 
-
+Por medio de una llamada, nosotoros nos comunicaremos con la maestra con la que estamos trabajando para poder platicar los ajustes respecto al proyecto, ya que debido a lo acontecido tendremos que abordar otra tematica.
 
 
 **Responsables de la Actividad**
@@ -69,10 +69,11 @@ Un nuevo objetivo del proyectos con los reajustes necesarios. Dadas las circunst
 
 **Artefacto Realizado** 
 
+Nuevo enfoque para la realización del proyecto.
 
 ----
 
-#### Jueves 25 de marzo {#act4}
+#### Jueves 26 de marzo {#act4}
 
 #### Actividad: Restructurar la informacion del repositorio
 
