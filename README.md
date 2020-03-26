@@ -7,8 +7,8 @@
 
 
 # Objetivo   
-Adyudar a las personas con limitantes autivas a desarrollar un pensamiento anlitico para encontrar la solucion a   
-problemas relacionados con en el ámbito matemático y literario.  
+Desarrollar una pieza tecnológica para facilitarle al maestro actividades de matemáticas que se realizan
+en clase, y poder monitorear los datos obtenidos de la actividad por el alumno. 
 ### Datos relevantes
 Actualmente estamos trabajando con el centro de usos multiples CAM número 12 con alumnado entre 12 y 18 años de edad, ya que en esta institución se dan asesorías para poder reforzar temas vistos en sus escuelas regulares, pero apesar   
 de que hay niños de gran edad, ellos siguen teniendo difcultades para poder.   
