@@ -89,5 +89,7 @@ Con el nuevo objetivo de nuestro proyecto, se empezará con la modificacion de l
 
 **Artefacto Realizado** 
 
-La documentacion en el repositorio de github, con los ajustes necesarios. 
+La documentacion en el repositorio de github, con los ajustes necesarios.
+
+- Documento [Analisis del Mercado](https://github.com/JoseBaezaP/IHC/blob/master/Deliveries/Analisis_del_Mercado.md)
 
