@@ -136,6 +136,6 @@ En la primera entrega, se realizó las plantillas de las personas. Sin embargo n
 
 **Artefacto Realizado** 
 
-Agregar una documentacion con la justificacion de las caracteriticas.
+Agregar una documentacion con la justificacion de las caracteriticas. 
 
 ----
