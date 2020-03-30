@@ -11,6 +11,7 @@ Seleccionando roles de los participantes, las actividades a realizar y los artef
 - [Restructurar la informacion del repositorio](#act4)
 - 31 de marzo de 2020 - 7 de Abril de 2020
 - [Refinamiento de los requisitos]()
+- [Justificar las caracteristicas de las Personas]()
 - [Empezar el protipado]() 
 
 ---
@@ -139,3 +140,20 @@ En la primera entrega, se realizó las plantillas de las personas. Sin embargo n
 Agregar una documentacion con la justificacion de las caracteriticas. 
 
 ----
+
+#### Viernes 3 de abril {#act5}
+
+#### Actividad: Empezar el prototipado
+
+En esta actividad se realizara los primeros prototipos de la aplicacion. Por lo que es necesario realizar una junta entre todo el equipo para plantear las herramientas que podemos usar para esta actividad.
+
+**Responsables de la Actividad**
+
+- Ariel May 
+- José Baeza
+- Nicolas Gala
+- Leonardo  
+
+**Artefacto Realizado** 
+
+Las primeras versiones de prototipado de baja fidelidad.
