@@ -1,0 +1,3 @@
+# Actividad 3 de la planeacion
+
+El dia 26 de marzo nos tratamos de comunicar con la meastra para poder plantearle las nuevas ideas y la nueva forma en la cual pensamos trabajar con ella debido a que se tuvo que replantear nuevamente la idea pues al no poder inteactuar fisicamente con los alumnos, pensamos trabajan unicamente con ella, pero al momento de comunicarnos con ella, la maestra nos comento que por el momento no se puede comunicar con nostros, hasta nuevo aviso, ya que ella se encuentra realizando ciertas tarea que le ocupan gran parte de su tiempo, sin embargo esta semana trataremos de comunicarnos nuevamente con ella para poder platicar sobre las nuevas ideas y plantearle una forma para poder trabajar con ella.
