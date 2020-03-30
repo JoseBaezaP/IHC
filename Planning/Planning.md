@@ -4,16 +4,20 @@ En este apartado se documentaran las actividades que se realizarán durante el p
 Seleccionando roles de los participantes, las actividades a realizar y los artefactos que serán generados.
 
 ### Lista de actividades
+- 23 de marzo de 2020 - 31 de marzo de 2020 
 - [Planeacion 1](#act1)
 - [Redefinir Objetivo](#act2)
 - [Reunion con la maestra](#act3)
 - [Restructurar la informacion del repositorio](#act4)
+- 31 de marzo de 2020 - 7 de Abril de 2020
+- [Refinamiento de los requisitos]()
+- [Empezar el protipado]() 
 
 ---
 ### 23 de marzo de 2020 - 31 de marzo de 2020 
 ----
 
-#### Martes 24 de marzo {#act1}
+#### Martes 24 de marzo {act1}
 
 #### Actividad: Planeacion 1
 
@@ -93,3 +97,45 @@ La documentacion en el repositorio de github, con los ajustes necesarios.
 
 - Documento [Analisis del Mercado](https://github.com/JoseBaezaP/IHC/blob/master/Deliveries/Analisis_del_Mercado.md)
 
+----
+---
+### 31 de marzo de 2020 - 7 de abril de 2020 
+----
+#### Miercoles 1 de abril {#act5}
+
+#### Actividad: Redefinir los requisitos del proyecto
+
+Con el nuevo enfoque del proyecto, se cambiaran los requisitos funcionales y no funcionales del proyecto.
+En esta actividad se actualizaran los requisitos por todos los miembros del equipo.
+
+**Responsables de la Actividad**
+
+- Ariel May 
+- José Baeza
+- Nicolas Gala
+- Leonardo  
+
+**Artefacto Realizado** 
+
+Los principales requisitos del sistema.
+
+---
+
+#### Miercoles 1 de abril {#act5}
+
+#### Actividad: Justificar las caracteristicas de las Personas.
+
+En la primera entrega, se realizó las plantillas de las personas. Sin embargo no se documento la razón por las que escogimos esas caracteriticas.
+
+**Responsables de la Actividad**
+
+- Ariel May 
+- José Baeza
+- Nicolas Gala
+- Leonardo  
+
+**Artefacto Realizado** 
+
+Agregar una documentacion con la justificacion de las caracteriticas.
+
+----
