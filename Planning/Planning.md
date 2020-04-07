@@ -96,7 +96,9 @@ Con el nuevo objetivo de nuestro proyecto, se empezará con la modificacion de l
 
 La documentacion en el repositorio de github, con los ajustes necesarios.
 
-- Documento [Analisis del Mercado](https://github.com/JoseBaezaP/IHC/blob/master/Deliveries/Analisis_del_Mercado.md)
+- Documento [Analisis del Mercado](https://github.com/JoseBaezaP/IHC/blob/master/Deliveries/Analisis_del_Mercado.md) ARIEL
+- Documento de la junta para [redefinir el objetivo] (https://github.com/JoseBaezaP/IHC/blob/master/Planning/redefinition%20of%20the%20objective.docx) LEONARDO
+- [Objetivo del proyecto](https://github.com/JoseBaezaP/IHC) NICOLAS
 
 ----
 ---
@@ -119,6 +121,7 @@ En esta actividad se actualizaran los requisitos por todos los miembros del equi
 **Artefacto Realizado** 
 
 Los principales requisitos del sistema.
+- Modificacion de los [requisitos](https://github.com/JoseBaezaP/IHC/blob/master/README.md) ARIEL
 
 ---
 
