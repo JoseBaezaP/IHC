@@ -61,26 +61,69 @@ ___
 Para la elaboración de este sistema, la dirección de centro de usos múltiples nos asignó a una maestra con la cual trabajaremos 
 a lo largo de este proyecto.   
 Al estar platicando con esta maestra, nos dío la oportunidad de ver su plan didáctico con la finalidad de plantear alguna idea
-de los futuros temas que verá con su grupo. De aqui surge una primera idea la cual es una "tienda virtual" la cual los alumnos
-podrán elegir ciertos productos y despúes de hacer esto, ellos tendrán que dar el resultado de la suma, si este es correcto 
-se le avisará al alumnos y si no tratarán de escribir el resultado de la suma o que ellos regresen a la tienda o puedan "cancelar 
-la compra", despúes de esta idea, nos surgió ciertas ideas generales para el proyecto en asi, las cuales se presentarán acontinuación.
+de los futuros temas que verá con su grupo. De esta manera se planteo realizar un sistema que le permita al maestro conocer en que temas tienen más problemas sus alumnos, de esta manera enfocarse en las áreas de mayor importancia. Estos resultados se realizaran por medio de una serie de actividades que los alumnos deberan realizar y el maestro podrá visualizar el resultado de cada alumnos para su retroalimentacion.
+
+Esto se llevará acabo mediante la implementacion de un sistema movil en donde los usuarios puden darse de alta como maestros o alumnos.
 
 
-| R001   |      Menú principal     |  
+| R001   |  Descripción    |  
 |----------|:-------------:|
-| Descripción | Al iniciar el sistema se econtrarán las materias relacionadas al plan didáctico, despúes de esta elección, se encontrarán los temas de esa materia seleccionada.|
+|  1| El sistema deberá permitir el acceso a los usuarios que tienen una cuenta. |
 
 ***
 
-| R002   |     Esquema del tema elegido      |  
+|R002    | Descripción     |  
 |----------|:-------------:|
-| Descripción | Al elegir un tema, este tendrá un pequeño turial refenrente al tema y despúes de eso se le adentrara al ejercicio. |
+| 2| El sistema debera manejar un portal de acceso a los usuarios que tienen una cuenta.|
+| 2.1 | El portal debe desplegar en la pantalla los campos de usuario y contraseña para validar el acceso.|
+| 2.2| El portal de acceso debe mostrar en pantalla las respuestas obtenidas fallas al acceder. Datos incorrectos, Cuenta no existe.|
 
 ***
-| R003   |      Traductor de instrucción.      |  
+| R003   |      Descripción      |  
 |----------|:-------------:|
-| Descripción | Cuando el alumnos no entienda la instrucción ellos podrá elegir esta instruccíón y se les mostrará un pequeño video en LSM respecto a lo que deben des hacer en el ejercicio. |
+| 3 | Los usuarios prodrán registrarse al sistema como maestros o alumnos. |
+|3.1 | Debera llenarse un formulario con la siguiente información.|
+| |  Nombres, Apellido Materno, Apellido Paterno, Correo, Contraseña. |
+
+***
+| R004 | Descripción |
+|----|----|
+| 4 | Un usuario del tipo Maestro puede crear grupos y agregar a sus alumnos por medio de un código de invitación.|
+
+***
+|R005  | Descripción   |
+|----|----|
+|5 | Un usuario del tipo Maestro puede visualizar a todos sus alumnos que pertenecen al grupo.
+
+***
+|R006  | Descripción   |
+|----|----|
+|6 | Un usuario del tipo Maestro puede visualizar la puntuacion obtenida de todos sus alumnos en cada ejercicio.
+
+***
+|R006  | Descripción   |
+|----|----|
+|6 | Un usuario del tipo Alumno pude seleccionar los diferentes ejercicios del area a realizar.
+|6.1 | Las áreas son Español y Matemáticas. |
+
+***
+|R007  | Descripción   |
+|----|----|
+|7 | El sistema debe validar que la respuesta sea la correcta y notificarle a alumno.
+
+***
+|R007  | Descripción   |
+|----|----|
+|7 | Cada área deberá contar con una pequeña intruduccion del tema.
+
+***
+|R008  | Descripción   |
+|----|----|
+|8 | Los ejercicios cuentan con instrucciones, problema y posibles respuestas.
+| 8.1 | Cada apartado del ejercicio debe estar traducido en Lengua de Señas Mexicanas.
+
+
+
 
 ___
 
@@ -97,6 +140,9 @@ Porcentaje trabajado=(numero de actividades realizadas + reuniones asistidas/num
 - 5 realizacion de encuestas.
 
 #### Actividades
+
+#### Primera Entrega
+
 - 1 Busqueda de información
 - 2 Creacion de encuestas.
 - 3 Aplicación de las encuestas   
@@ -108,6 +154,6 @@ Porcentaje trabajado=(numero de actividades realizadas + reuniones asistidas/num
 | Ariel    | (((3+5)/(3+5))/4)+.01  | 26  |
 | Nicolas  | (((3+4)/(3+5))/4)+.01  | 24  |
 
-
+#### Segunda Entrega
 
 
