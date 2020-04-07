@@ -8,13 +8,13 @@
 
 # Objetivo   
 Desarrollar una pieza tecnológica para facilitarle al maestro actividades de matemáticas que se realizan
-en clase, y poder monitorear los datos obtenidos de la actividad por el alumno. 
+en clase, y poder monitorear los datos obtenidos de la actividad por el alumno.
 ### Datos relevantes
-Actualmente estamos trabajando con el centro de usos multiples CAM número 12 con alumnado entre 12 y 18 años de edad, ya que en esta institución se dan asesorías para poder reforzar temas vistos en sus escuelas regulares, pero apesar   
-de que hay niños de gran edad, ellos siguen teniendo difcultades para poder.   
+Actualmente estamos trabajando con el centro de usos multiples CAM número 12 con alumnado entre 12 y 18 años de edad, ya que en esta institución se dan asesorías para poder reforzar temas vistos en sus escuelas regulares, pero apesar
+de que hay niños de gran edad, ellos siguen teniendo difcultades para poder.
 Al estar recopilando datos, platicando con maestros y alumnos, hemos podido indentificar los siguientes aspectos.   
 ##### Maestros
-+ Los maestros tratan motivar a sus alumnos para aprender temas nuevos, por medio de juegos, actividades, imagenes, etc.   
++ Los maestros tratan motivar a sus alumnos para aprender temas nuevos, por medio de juegos, actividades, imagenes, etc.
 + La mayoria de los maestros, usan sus computadoras para dar clase y asi poder hacerla más dinamica.
 ##### Alumnos
 + Presentan problemas para poder poder abstraer la información del mundo real al mundo empirico.
@@ -31,30 +31,30 @@ ___
 ## Planeación
 
 La forma que nosotros usamos para poder fue en base a encuestas, ya que esto nos ayudo a poder identificar datos especificos de los alumnos y maestros. Los cuales fueron muy importantes debido
-a que notamos particularidades en tanto a niños como maestros (las todas las entrevistas se encuentran en el siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Entrevistas)), gracias a esto pudimos notar lo siguiente:   
-![](https://github.com/JoseBaezaP/IHC/blob/master/Entrevistas/graficas/imagenes/Alumnos%201.PNG)
-![](https://github.com/JoseBaezaP/IHC/blob/master/Entrevistas/graficas/imagenes/Alumnos%202.PNG)
-![](https://github.com/JoseBaezaP/IHC/blob/master/Entrevistas/graficas/imagenes/Alumnos%203.PNG)
-![Aparatos que usan mas](https://github.com/JoseBaezaP/IHC/blob/master/Entrevistas/graficas/imagenes/Alumnos%204.PNG)
-![](https://github.com/JoseBaezaP/IHC/blob/master/Entrevistas/graficas/imagenes/Alumnos%205.PNG)
+a que notamos particularidades en tanto a niños como maestros (las todas las entrevistas se encuentran en el siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Surveys)), gracias a esto pudimos notar lo siguiente:   
+![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%201.PNG)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%202.PNG)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%203.PNG)
+![Aparatos que usan mas](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%204.PNG)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%205.PNG)
 
 Con esto podemos ver que muchos de estos niños tinen detalles practicamente en las mismas materias y prefieren aprender de manera practica las cosas,
 ya que prefieren materiales didacticos para poder entender mejor los temas. Es por ello que el sistema que deseamos realizar sea usado en el CAM, para
 que las maestras ya que tiene ventaja debido a que la mayoria de ellas usan sus computadoras, tabletas o telefonos para dar clase, es por ellos que se piensa
 crear este sistema para poder ayudar a las maestras y que los niños le tomen mucho más interes en aprender.
 Es posible que dicho sistema pueda ser usado por los niños para que ellos puedan repasar ciertos temas que deseen reforzar antes de ir a sus clases regulares o para poder tener practicar e ir con mas ideas o dudas especificas antes de ir al CAM.   
-*Si desea ver todas las graficas puede entrar al siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Entrevistas/graficas)*   
+*Si desea ver todas las graficas puede entrar al siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Surveys/graphics)*   
 Para poder realizar las nuevas actividades tenemos asignados los siguientes días:
-![](https://github.com/JoseBaezaP/IHC/blob/master/Imagenes/Calendario/Calendario%201.jpeg)
-![](https://github.com/JoseBaezaP/IHC/blob/master/Imagenes/Calendario/Calendario%202.jpeg)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/calendar/Calendario%201.jpeg)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Calendar/Calendario%202.jpeg)
 
 
 ## Personas
 
 Ya despues de todo la investigación realizado pudimos indentificar a dos personas involucradas para el desarrollo de este proyecto
 las personas con las que trabajaremos serían **maestros** y **alumnos**. Estas personas quedarían de la siguiente manera:
-![Persona alumno](https://github.com/JoseBaezaP/IHC/blob/master/Imagenes/personas/Student%20Persona.png)
-![Persona maestro](https://github.com/JoseBaezaP/IHC/blob/master/Imagenes/personas/Teacher%20Persona.png)
+![Persona alumno](https://github.com/JoseBaezaP/IHC/blob/master/Image/personas/Student%20Persona.png "Especificacion de la persona alumno")
+![Persona maestro](https://github.com/JoseBaezaP/IHC/blob/master/Image/personas/Teacher%20Persona.png "Especificacion de la persona maestro")
 ___
 
 # Requisitos
