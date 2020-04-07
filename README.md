@@ -46,16 +46,16 @@ Es posible que dicho sistema pueda ser usado por los niños para que ellos pueda
 *Si desea ver todas las graficas puede entrar al siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Surveys/graphics)*   
 Para poder realizar las nuevas actividades tenemos asignados los siguientes días:
 ![](https://github.com/JoseBaezaP/IHC/blob/master/Image/calendar/Calendario%201.jpeg)
-![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Calendar/Calendario%202.jpeg)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/calendar/Calendario%202.jpeg)
 
 
 ## Personas
 
 Ya despues de todo la investigación realizado pudimos indentificar a dos personas involucradas para el desarrollo de este proyecto
 las personas con las que trabajaremos serían **maestros** y **alumnos**. Estas personas quedarían de la siguiente manera:
-![Persona alumno](https://github.com/JoseBaezaP/IHC/blob/master/Image/personas/Student%20Persona.png "Especificacion de la persona alumno")
-![Persona maestro](https://github.com/JoseBaezaP/IHC/blob/master/Image/personas/Teacher%20Persona.png "Especificacion de la persona maestro")
-___
+[![Persona alumno](https://github.com/JoseBaezaP/IHC/blob/master/Image/personas/Student%20Persona.png "Especificacion de la persona alumno")](https://github.com/JoseBaezaP/IHC/blob/master/Image/personas/Student%20persona%20analysis.md)
+[![Persona maestro](https://github.com/JoseBaezaP/IHC/blob/master/Image/personas/Teacher%20Persona.png "Especificacion de la persona maestro")](https://github.com/JoseBaezaP/IHC/blob/master/Image/personas/Teacher%20persona%20analysis.md)
+Puedes dar click en la imagenes para ver un analisis un poco mas detallado sobre cada una de las personas.
 
 # Requisitos
 Para la elaboración de este sistema, la dirección de centro de usos múltiples nos asignó a una maestra con la cual trabajaremos 
