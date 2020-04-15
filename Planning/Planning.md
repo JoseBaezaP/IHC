@@ -34,6 +34,7 @@ Se realizará la planeación de todas las actividades que se deben realizar dura
 **Artefacto Realizado** 
 
 Un documento en el repositorio de Github, donde se encontrarán todas las actividades que se han realizado y realizaran.
+- Creo un pequeño calendario en el md principal donde aparecen las actividades relacionadas al proyecto.	ARIEL
 
 
 ----
@@ -76,6 +77,7 @@ Por medio de una llamada, nosotoros nos comunicaremos con la maestra con la que 
 **Artefacto Realizado** 
 
 Nuevo enfoque para la realización del proyecto.
+- Al llamar a la maestra y nos pidio tiempo para poder organizarse con sus demas actividades para poder trabajar con ella.	Jose
 
 ----
 
@@ -140,6 +142,9 @@ En la primera entrega, se realizó las plantillas de las personas. Sin embargo n
 **Artefacto Realizado** 
 
 Agregar una documentacion con la justificacion de las caracteriticas. 
+- Se agregó en analisis de cada una de las personas, con una pequeña explicación [Persona maestro](https://github.com/JoseBaezaP/IHC/blob/master/Image/personas/Teacher%20persona%20analysis.md
+), [Persona alumno](https://github.com/JoseBaezaP/IHC/blob/master/Image/personas/Student%20persona%20analysis.md
+)	José
 
 ----
 
