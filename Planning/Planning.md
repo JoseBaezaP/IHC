@@ -150,12 +150,12 @@ En este actividad se realizara el documento ERS del proyecto
 |Ariel|Documento de [Especificacion de Ingenieria de Software](https://drive.google.com/file/d/1OnDAFbp-FjxVrlTIUbi0RYAki_F9MGM1/view?usp=sharing)|NInguno|8 de Abril|9 de Abril|
 
 
-|Partes del ERS|Autor|
-|---|--|
-|Introducción| |
-|Descripcion General||
-|Requisitos Específicos||
-|Casos de Uso|  |
+|Partes del ERS|Autor|status
+|---|--|--|
+|Introducción| Leonardo|Terminado
+|Descripcion General|Baeza|Terminado
+|Requisitos Específicos|Ariel|Revision
+|Casos de Uso|Nicolas|Revision
 ---
 
 ### Miercoles 8 de abril {#act5}
@@ -178,8 +178,8 @@ Prototipos en inVision.
 
 |Nombre|Actividad|Inconveniente|Fecha de entrega|Fecha maxima de entrega|
 |:---:|:---:|:---:|:---:|:---:|
-|Jose||||30 abril|
-|Nicolas||||30 abril|
-|Ariel||||30 abril|
+|Jose|Login|||30 abril|
+|Nicolas|Actividades|||30 abril|
+|Ariel|Actividades|||30 abril|
 
 ---
