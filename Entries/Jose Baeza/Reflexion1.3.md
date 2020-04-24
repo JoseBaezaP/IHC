@@ -1,0 +1,2 @@
+# Change in our project
+Since all the pandemic began, we had to readjust certain points of which in our already we had more or less defined, since in our project we were based more on the interaction with children and now we had to adjust it to a greater interaction with the teachers, that is why we made certain changes, we still had to adjust certain things to organize ourselves as a team, because now being at a distance there are many difficulties but we have to overcome it and improve day by day
