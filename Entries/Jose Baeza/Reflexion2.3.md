@@ -1,0 +1,2 @@
+# Help from an expert
+Since the pandemic happened since the last weeks of March, the people we were working with had much more responsibilities with their students. The teacher with whom we were working told us that she was very busy with her students, since she had to prepare her classes to be able to work with her boys. Due to this change, we had to talk with an Audio Amigo IAP association in order to request support and have the opinion of an expert on the subject, in order to improve or reframe what was thought
