@@ -1,0 +1,3 @@
+# Cognitive session with the expert.
+
+In order to carry out the session with the expert, we have been planning the use cases to be able to do the cognitive method since, since we cannot work with someone with this disability, we went to the expert to evaluate us on the way in which we are doing the prototype and if you have any recommendations to make any changes. We have thought about the use cases which the expert will evaluate.
