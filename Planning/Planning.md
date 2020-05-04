@@ -15,6 +15,11 @@ Seleccionando roles de los participantes, las actividades a realizar y los artef
 - 7 de abril de 2020 - 15 de abril de 2020
 - [Protipado](#act7) 
 - [ERS](#act8)
+- 30 de abril de 2020 - 4 de mayo de 2020
+- [Matriz de trazabilidad de requisitos]()
+- [Prototipada de intefaces]()
+- [Metodo de inspección]()
+- [Bosquejo de pruebas de usabilidad]()
 ---
 ## 23 de marzo de 2020 - 31 de marzo de 2020 
 ----
@@ -112,7 +117,7 @@ En esta actividad se actualizaran los requisitos por todos los miembros del equi
 
 ---
 
-#### Miercoles 1 de abril {#act5}
+#### Miercoles 1 de abril {#act6}
 
 #### Actividad: Justificar las caracteristicas de las Personas.
 
@@ -131,7 +136,7 @@ En la primera entrega, se realizó las plantillas de las personas. Sin embargo n
 ---
 ## 7 abril de 2020 - 30 de abril de 2020 
 ----
-### Miercoles 7 de abril 
+### Miercoles 7 de abril {#act7}
 
 
 #### Actividad: Especificacion de Requisitos de Software
@@ -154,11 +159,11 @@ En este actividad se realizara el documento ERS del proyecto
 |---|--|--|
 |Introducción| Leonardo|Terminado
 |Descripcion General|Baeza|Terminado
-|Requisitos Específicos|Ariel|Revision
-|Casos de Uso|Nicolas|Revision
+|Requisitos Específicos|Ariel|Terminado
+|Casos de Uso|Nicolas|Terminado
 ---
 
-### Miercoles 8 de abril {#act5}
+### Miercoles 8 de abril {#act8}
 
 #### Actividad: Empezar el prototipado 
 
@@ -175,11 +180,95 @@ En esta actividad se realizara los primeros prototipos de la aplicacion. Por lo 
 
 Las primeras versiones de prototipado de baja fidelidad.
 Prototipos en inVision.
+### Producto terminado 
+[Protitipo de Invision](https://practicalsession.invisionapp.com/prototype/ck9rnxpny00c70q01efivt67a/play) 
 
 |Nombre|Actividad|Inconveniente|Fecha de entrega|Fecha maxima de entrega|
 |:---:|:---:|:---:|:---:|:---:|
-|Jose|Login|||30 abril|
-|Nicolas|Actividades|||30 abril|
-|Ariel|Actividades|||30 abril|
+|Jose|Login|Ninguno|23 de abril|30 abril|
+|Nicolas|Actividades|Ninguno|23 de abril|30 abril|
+|Ariel|Interfaces del maestro y alumno|Ninguno|23 de abril|30 abril|
+
+---
+
+## 30 abril de 2020 -  6 de mayo de 2020 
+---
+### Viernes 1 de Mayo fecha de inicio {#act9}
+
+#### Actividad: Matriz de trazabilidad de requisitos
+
+En esta actividad se realizo un sencillo documento para realizar la matriz de trazabilidad de los requerimientos de software, y como se fue implementado a travez de del prototipado en InVision de manera que cada requerimiento planteando en el ERS haya sido desarrollado en el protitipo.
+
+**Responsable de la actividad**
+
+|Nombre|Actividad|Fecha de entrega|status
+|---|---|---|---|
+|Ariel May|Matrices de trazabilidad de los requisitos|3 de mayo|Finalizado|
+
+**Artefacto Realizado**
+
+[Documento con las matrices de trazabilidad](https://drive.google.com/file/d/1WQCdYMLrp4bwVlU4-70TLrc5JHojniaD/view?usp=sharing)
+
+---
+
+### Sabado 2 de Mayo fecha de inicio {#act10}
+
+#### Actividad: Documento de protitipado de interfaces
+
+En esta actividad se plantea diferentes puntos sobre el desarrollo del prototipo por lo que se tienen diferentes actividades
+
+* Desarrollo de prototipos(Esta actitidad se realizó a parte)
+* Guías de diseño
+* Evolucion de prototipos   
+* Diseño de interaccion 
+
+**Responsable de la actividad**
+* Ariel May
+* Nicolas Gala
+* Leonardo
+* José
+
+**Artefacto Realizado**
+Un documento sobre el [protipado de interfaces](https://docs.google.com/document/d/1r2iL7u8yWIQsIMj_YJ8muQbZF8eGQ9suOj8_XkLOt4Y/edit?usp=sharing)
+
+|Responsable| Actividad| Status|Fecha de entrega|
+|---|---|---|---|
+|Ariel|Diseño de interacción|Finalizado|3 de mayo|
+|Nicolas|Busqueda de plantillas de diseño|Finalizado|30 de abril|
+|Leonardo|Busqueda de plantillas de diseño|Finalizado|30 de abril|
+|José|Psicologia del color para las plantillas|Finalizado|30 de abril|
+
+---
+### Sabado 2 de mayo fecha de inicio {#act11}
+
+#### Actividad: Metodo de inspección
+
+En esta actividad se evaluara el prototipo realizado por medio de un metodo de inspección.
+
+**Responsable de la actividad**
+
+* Ariel May
+* Nicolas Gala
+* Leonardo
+* José
+
+**Artefacto Realizado**
+Un documento con los resultados del metodo de inspección
+|Responsable|Metodo|Status|fecha de entrega|
+|---|---|---|---|
+|Ariel May|Evaluación Heúristica|En proceso|
+|Jose||En proceso||
+|Nicolas||En proceso||
+|Leonardo||En proceso||
+
+---
+### Sabado 2 de Mayo fecha de inicio {#act12}
+
+#### Actividad: Bosquejo de pruebas de usabilidad
+
+
+**Responsable de la actividad**
+
+**Artefacto Realizado**
 
 ---
