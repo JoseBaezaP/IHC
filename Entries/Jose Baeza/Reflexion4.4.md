@@ -1,0 +1,3 @@
+# Design guides
+
+For the realization of the prototype we were seeing certain similar applications to be able to guide us in our prototype, so that it was easy to use, we also learned how to combine colors, since it is not only using any colors, you must use a base color and choose there We will use analog colors, complementary colors, triads, etc. this was very important for our prototype to have its own colors for use
