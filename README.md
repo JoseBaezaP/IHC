@@ -11,11 +11,15 @@ La Organización Mundial de la Salud (OMS) estima que hay en el mundo más de 42
 
 
 Distribucion de discapacidades en Mexico 2014
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Grafica1.png)
 
 Distribución porcentual de las discapacidades, por entidad federativa en Mexico 2014
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Grafica2.png)
 
 En una muestra de 2,285 pacientes utilizando la información de los expedientes incluidos en la base de datos SIEAAYPRODA 2003-2011.
 Se obtuvieron los siguientes resultados.
+
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Grafica3.png)
 
 
 # Problemas que causa la perdida de audición
@@ -193,7 +197,9 @@ Durante el receso logramos encuestar a las maestras. Ademas debimos trascibir la
 #### Primera Entrega
 
 - 1 Busqueda de información
+  
 |Participantes | Actividades |
+|----|----|
 |Ariel May|Datos del Inegi sobre la poblacion con limitantes auditiva en Mexico|
 |Jose Baeza|Datos del Inego sobre la priblacion con limitantes auditiva en Yucatan|
 |Leonardo Fernandez|Articulos sobre la problematica|
@@ -202,6 +208,7 @@ Durante el receso logramos encuestar a las maestras. Ademas debimos trascibir la
 - 2 Creacion de encuestas.
 
 |Participantes | Actividades |
+|---|---|
 |Ariel May|Opiniones y posibles preguntas para la encuesta|
 |Jose Baeza|Opiniones y posibles preguntas para la encuesta y notificar a la directora|
 |Nicolas Gala|Opiniones y posibles preguntas para la encuesta|
@@ -210,6 +217,7 @@ Durante el receso logramos encuestar a las maestras. Ademas debimos trascibir la
 - 3 Aplicación de las encuestas
 
 |Participantes | Actividades |
+|---|---|
 |Ariel May|Realizar encuesta y trascribirla|
 |Jose Baeza|Realizar encuesta y trascribirla|
 |Leonardo Fernandez|Realizar encuesta y trascribirla|
