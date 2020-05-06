@@ -1,8 +1,8 @@
 # Segunda Entrega
 
-[Evidencia de la hoja de cotejo de la primera entrega]()
+[Evidencia de la hoja de cotejo de la primera entrega](https://github.com/JoseBaezaP/IHC/blob/master/Deliveries/Evidencia%20de%20Hoja%20de%20Cotejo-Primera%20Entrega.pdf)
 
-[Evidencia de la hoja de cotejo de la segunda entrega](https://drive.google.com/file/d/1UBE2FgLe44IL5XzrM3WSJgL-V0AckR_X/view?usp=sharing)
+[Evidencia de la hoja de cotejo de la segunda entrega](https://github.com/JoseBaezaP/IHC/blob/master/Deliveries/Evidencia%20de%20Hoja%20de%20Cotejo-Segunda%20Entrega.pdf)
 
 ### Requerimientos Especificos
 
