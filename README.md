@@ -5,6 +5,24 @@
 + **Nicolas Gala** <br>
 + **Leo Hernandez** <br>
 
+# Definición de sordera o hipoacusia
+Las funciones auditivas son aquellas actividades sensoriales relacionadas con la percepción de los sonidos, la discriminación de su localización, tono, volumen y calidad. Se denomina sordera o hipoacusia al déﬁcit funcional que ocurre cuando el sujeto pierde capacidad auditiva en mayor o menor grado1,2. 
+La Organización Mundial de la Salud (OMS) estima que hay en el mundo más de 42 millones de personas mayores de 3 años con déﬁcit auditivo.
+
+
+Distribucion de discapacidades en Mexico 2014
+
+Distribución porcentual de las discapacidades, por entidad federativa en Mexico 2014
+
+En una muestra de 2,285 pacientes utilizando la información de los expedientes incluidos en la base de datos SIEAAYPRODA 2003-2011.
+Se obtuvieron los siguientes resultados.
+
+
+# Problemas que causa la perdida de audición
+
+La incomunicación los aísla y orilla a convivir predominantemente con otros sordos, lo que genera entre ellos una cultura apartada del resto, con su propio idioma y sus propios códigos. Esto los vuelve invisibles en México, país que los inserta en el paquete de todas las discapacidades, tanto en atención y trato como en recursos para su educación. 
+La mayoría de los que conocen este lenguaje son familiares de los sordos y la capacitación a los maestros para que aprendan a comunicarse con estos estudiantes no es obligatoria: el ministerio de Educación (SEP) se lo pide a las escuelas, pero si alguna no lo hace, no hay sanciones. Y como corolario, el presupuesto para Educación Especial va en caída.
+
 
 # Objetivo   
 Desarrollar una pieza tecnológica para facilitarle al maestro actividades de matemáticas que se realizan
@@ -134,18 +152,79 @@ Porcentaje trabajado=(numero de actividades realizadas + reuniones asistidas/num
 ***
 #### Reuniones
 - 1 Primera reunion en CAM 12.
+
+|Participante| Actividad |
+|---| ---|
+|Ariel May|Platica sobre nuestro proyecto a la directora del CAM11|
+|José Baeza|Platica sobre nuestro proyecto a la directora del CAM11|
+
 - 2 Solicitud de oficios.
+  
+|Participante| Actividad |
+|---| ---|
+|Ariel May|Ir a la sep, para hablar al centro de educación espacial y solicitar los requisitos para tramitar el oficio para que nos permitan acceder a las instalaciones de la escuela|
+|José Baeza|Ir a la sep, para hablar al centro de educación espacial y solicitar los requisitos para tramitar el oficio para que nos permitan acceder a las instalaciones de la escuela|
+
 - 3 Entrega de oficios a la direcctora de CAM 12.
-- 4 Planeacion de actividade con la directora.
+
+Se platicó con la directora sobre el proyecto y entragamos el oficio, y nos permitio tomar una clase de prueba con los alumnos.
+
+|Participante| Actividad |
+|---| ---|
+|Ariel May|Tomar apuntes sobre la forma en la que se daba la clase|
+|José Baeza|Tomar apuntes sobre la forma en la que se daba la clase|
+|Leonardo|Tomar apuntes sobre la forma en la que se daba la clase|
+
+
+- 4 Planeacion de actividades con la directora.
+
+Nos reunimos en Discord, para planear las encuestas que debiamos realizar a maestros y alumnos.
+Además de acordar un día especifico para realizarlas y no perjudique a todos.
+
+
+
 - 5 realizacion de encuestas.
+Fuimos al CAM 12, para hablar con la directora y nos permitiera realizar las encuestas a los maestras.
+Durante el receso logramos encuestar a las maestras. Ademas debimos trascibir las respuestas a word.
+
+
 
 #### Actividades
 
 #### Primera Entrega
 
 - 1 Busqueda de información
+|Participantes | Actividades |
+|Ariel May|Datos del Inegi sobre la poblacion con limitantes auditiva en Mexico|
+|Jose Baeza|Datos del Inego sobre la priblacion con limitantes auditiva en Yucatan|
+|Leonardo Fernandez|Articulos sobre la problematica|
+|Nicolas Gala|Articulos y Datos sobre la problematica|
+
 - 2 Creacion de encuestas.
-- 3 Aplicación de las encuestas   
+
+|Participantes | Actividades |
+|Ariel May|Opiniones y posibles preguntas para la encuesta|
+|Jose Baeza|Opiniones y posibles preguntas para la encuesta y notificar a la directora|
+|Nicolas Gala|Opiniones y posibles preguntas para la encuesta|
+|Leonardo Fernandez|Opiniones y posibles preguntas para la encuesta|
+
+- 3 Aplicación de las encuestas
+
+|Participantes | Actividades |
+|Ariel May|Realizar encuesta y trascribirla|
+|Jose Baeza|Realizar encuesta y trascribirla|
+|Leonardo Fernandez|Realizar encuesta y trascribirla|
+|Nicolas Gala|Realizar encuesta y trascribirla|
+
+##### Modificación del Objectivo 
+Estas actividades se pueden visualizar con las detalle en el [planning]()
+
+- 4 Redefinir objetivo
+- 5 Reunion con la maestra del CAM-12
+- 6 Restructuracion del repositorio
+- 7 Refinamiento de los nuevos requisitos
+- 8 Justificar las caracteristicas de las personas
+
 
 | Nombre   |      Metrica     |   Porcentaje   |  
 |:--------:|:----------------:|:-----:|
