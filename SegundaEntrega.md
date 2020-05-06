@@ -301,7 +301,23 @@ Motivando a los alumnos cuando acaban un ejercicio para mejorar su puntuación o
 
 # Metodos de Inspección
 
-Metodo de Inspección 
+### Evaluación Heuristica
+
+|N|Heurística|Práctica|
+|---|----|----|
+|1|Visibilidad del estado del sistema|La aplicacion muestra en todo momento al usuario en que página se encuentra.|
+|||Es necesario agregar un indicador, en las actividades para que el usuario este al tanto de cuantas actividades ha resuelto y cuantas le falta. Una trayectoria de las misma|
+|2|Relación entre el sistema y el mundo real|El sistema esta pensado para gente con problemas auditivos, es por ello que las actividades tiene la opcion de las actividades con letras o con pequeños videos explicando en LSM lo que debe de hacer, asi mismo las imagenes relacionadas a las funciones, pueden ayudar a comprender mejor las acciones que deben realizar.|
+|3|Control y libertad del usuario|El sistema permite la navegacion por todas las ventanas de la aplicación, además de permitir la opcion de regreso a Home, en caso de tener alguna acción erronea.|
+|||Es necesaario agregar al momento de realizar una actividad, los alumnos puedan cambiar sus respuestas, ya que la confimación de la respuesta es instantanea.|
+|4|Consistencia y estándares|Las acciones de los botones estan bien identificadas para que el usurio no tenga problema en que hace un boton y evite confusiones, además que la forma en la que esta diseñada la interfaz, ya que se eligieron los colores tomando como base el fondo base y todos los botones con las misma funcionalidad son iguales en todas las secciones|
+|5|Prevención de errores|En los formularios de login, crear grupo y registro, en necesario validar la informacion, con el fin de evitar algún error antes que suceda. En este caso notificar al usuario si un campo todavia no esta llenado|
+|6|Reconicimiento mejor que recuerdo|Ofrece un menú interactivo que permite al usaurio visualizar todas las funciones en le menú principal|
+|7|Flexibilidad y eficiencia de uso|El diseño del prototipo tiene pensado, usar botones con los cuales se eviten la sorbrecarga estetica de la interfaz, tomando como ejemplo el boton que se utiliza para cambiar la interfaz de texto a LSM, este es un boton pequeño y sencillo, esto nos ayuda a evitar el poner letras y explicando para que sirve dicho botón.|
+|8|Diseño estético y minimalista|Diseño de la intefaz sencilla y los items acomodados de manera que permita facil acceso al usuario. Sin tanta saturación de colores y componentes en la interfaz.|
+|9|Ayudar a reconocer, diagnosticar y recuperarse de errores|Al ser una aplicacion movil, no hay forma de implementar "aceleradores", pero la implentacion de acceder con las cuentas de google o facebook, facilita al usuario el registro y el acceso a la aplicacion de forma sencilla, ademas que una vez logeado, no es necesario volverlo hacer al entrar de nuevo a la aplicación|
+|10|Ayuda y documentacion|No se tiene un manual de usario|
+|||Para prototipo actual es necesario realizar un manual de usuario con un sistema de ayuda al usuario.|
 
 # Planeacion de la Prueba
 
@@ -311,6 +327,17 @@ Metodo de Inspección
 
 Bitácora/Evidencia del proceso
 
+Todas las actividades realizadas, durante la modificacion del proyecto y de la segunda entrega se puede ver en el siguiente link [Planeación](https://github.com/JoseBaezaP/IHC/blob/master/Planning/Planning.md)
+
 Metrica de contribución 
 
+Hasta el dia de hoy, para nuestra segunda entrega tenemos la siguiente contribución de actividadades
+|Nombre|Metrica|Porcentaje|
+|---|---|---|
+|Ariel May|(((9+6)/(9+6))/4)|25|
+|Jose|(((9+6)/(9+6))/4)|25|
+|Nicolas|(((5+6)/(5+6))/4)|25|
+|Leonardo|(((5+6)/(5+6))/4)|25|
+
 Presentacion del Avance 
+En el siguiente link se encuentra la [presentacion](https://github.com/JoseBaezaP/IHC/blob/master/Presentation/Segunda%20entrega.pdf) 
