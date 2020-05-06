@@ -90,6 +90,7 @@ de los futuros temas que verá con su grupo. De esta manera se planteo realizar 
 
 Esto se llevará acabo mediante la implementacion de un sistema movil en donde los usuarios puden darse de alta como maestros o alumnos.
 
+## Requisitos funcionales
 
 | R001   |  Descripción    |  
 |----------|:-------------:|
@@ -148,7 +149,12 @@ Esto se llevará acabo mediante la implementacion de un sistema movil en donde l
 | 8.1 | Cada apartado del ejercicio debe estar traducido en Lengua de Señas Mexicanas.
 
 
+## Requisitos no funcionales
 
+|RNF|Descripcion |
+|----|----|
+|1|El sistema debe ser de fácil uso para los maestros y alumnos, deben entender el funcionamiento del sistema en menos de 30 min|
+|2|El sistema debe poder ser traducido a LSM las instrucciones|
 
 ___
 
