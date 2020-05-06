@@ -305,13 +305,7 @@ Metodo de Inspección
 
 # Planeacion de la Prueba
 
-Seleccion de los RNF de Usabilidad
-
-Planeación de la prueba
-
-Metricas de usabilidad
-
-Protocolo de prueba de usabiliadad
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/PlaneacionPrueba.png)
 
 # Trabajo en equipo
 
