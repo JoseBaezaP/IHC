@@ -33,17 +33,16 @@ ___
 La forma en la cual pudimos recabar información fue mediante encuentas a los maestro. Este método fue elegido por nosotros ya que poder tener información certera de la forma en que trabajan, en como motivan a sus alumnos, en que tipo materias utlizan para enseñar, entre otras cosas. Fue entonces que realizamos la siguiente encuesta (en este en [enlace](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/Plantilla%20de%20entrevistas.pdf) .
 Para poder empatizar y conocer un poco más a los chicos, nosotros intentamos realizar unas cuentas, sin embargo, esto no pudo ser posible ya que muchos de ellos no comprendian ciertas palabras o se les hacia muy complicado leer, preferimos por medio de la 
 maestra realizar mejor el método de la entrevista para que pudieramos conocer más al respecto de lo que piensan los niños y conocer debilidades y fortalezas, para asi tener información con la cual poder trabajar.
-*Si desea ver las encuesta de los maestros puede ir al siguiente [enlace]() y para ver las entrevistas de los niños puede dar click [aqui]() para verlas.
+*Si desea ver las encuesta de los maestros puede ir al siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Surveys/encuesta%20maestro) y para ver las entrevistas de los niños puede dar click [aqui](https://github.com/JoseBaezaP/IHC/tree/master/Surveys/entrevistas%20alumnos) para verlas.*
 Ya despúes de trabajar con los maestros y tener más información, pudimos realizar las siguientes gráficas.
-![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%201.PNG)
-![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%202.PNG)
-![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%203.PNG)
-![Aparatos que usan mas](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%204.PNG)
-![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%205.PNG)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/teacher´s%20grafics/Tearcher1.png)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/teacher´s%20grafics/teacher2.png)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/teacher´s%20grafics/teacher3.png)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/teacher´s%20grafics/teacher4.png)
 
-
-Es posible que dicho sistema pueda ser usado por los niños para que ellos puedan repasar ciertos temas que deseen reforzar antes de ir a sus clases regulares o para poder tener practicar e ir con mas ideas o dudas especificas antes de ir al CAM.   
-*Si desea ver todas las graficas puede entrar al siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Surveys/graphics)*   
+Al obtener estos datos pudimos identificar por parte de los maestros como es la forma la cual trabajan, materias que notan en la cual los chicos tienen mayor dificultad o se las da mejor,
+, etc. Esto fue un paso muy importante ya al tener esta información pudimos sacar nuestras propias conclusiones para asi poder empezar a trabajar.
+*Si desea ver todas las graficas puede entrar al siguiente [enlace](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/Analisis.xlsx)*   
 Para poder realizar las nuevas actividades tenemos asignados los siguientes días:
 ![](https://github.com/JoseBaezaP/IHC/blob/master/Image/calendar/Calendario%201.jpeg)
 ![](https://github.com/JoseBaezaP/IHC/blob/master/Image/calendar/Calendario%202.jpeg)
