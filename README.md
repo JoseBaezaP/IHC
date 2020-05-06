@@ -7,8 +7,7 @@
 
 
 # Objetivo   
-Desarrollar una pieza tecnológica para facilitarle al maestro actividades de matemáticas que se realizan
-en clase, y poder monitorear los datos obtenidos de la actividad por el alumno.
+Ayudar al maestro a idetificar los avances y dificultades que tiene los niños en cierta materias.
 ### Datos relevantes
 Actualmente estamos trabajando con el centro de usos multiples CAM número 12 con alumnado entre 12 y 18 años de edad, ya que en esta institución se dan asesorías para poder reforzar temas vistos en sus escuelas regulares, pero apesar
 de que hay niños de gran edad, ellos siguen teniendo difcultades para poder.
@@ -26,7 +25,8 @@ y español, como podría ser Tangram, Agnitus. mindomo, DotToDot numbers & lette
 similares que toquen el tema de inclusión para gente sorda, pudimos ver un aplicacion llamada "Dilo con Señas" la cual fue desarrollada con el fin de comprender ciertas como decir ciertas cosas en lenguaje de señas, 
 pero hay nada con el fin de poder ayudar a esta población para mejorar academicamente. 
 ### Principal propuesta 
-**Desarrollar un sistema tomando como ejemplo el plan educativo manejado en el centro de usos multiples CAM 12, con el fin de mejorar la metodologia de aprendizaje utilizadó para los niños con limitante auditiva.**
+**Desarrollar una pieza tecnológica para facilitarle al maestro actividades de matemáticas que se realizan
+en clase, y poder monitorear los datos obtenidos de la actividad por el alumno.**
 ___
 ## Planeación
 
