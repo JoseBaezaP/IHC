@@ -64,7 +64,7 @@ Ya despúes de trabajar con los maestros y tener más información, pudimos real
 
 Al obtener estos datos pudimos identificar por parte de los maestros como es la forma la cual trabajan, materias que notan en la cual los chicos tienen mayor dificultad o se las da mejor,
 , etc. Esto fue un paso muy importante ya al tener esta información pudimos sacar nuestras propias conclusiones para asi poder empezar a trabajar.
-Para poder tener otro punto de vista, tambien contactamos a una Licenciada de la asociacion AUDIO AMIGO y le realizamos la siguiente [encuesta](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/encuesta%20maestro/Encuesta.docx)
+Para poder tener otro punto de vista, tambien contactamos a una Licenciada de la asociacion AUDIO AMIGO y le realizamos la siguiente [encuesta](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/encuesta%20maestro/Encuesta.pdf)
 y esto nos ayudo mucho, ya que aprendimos como es la forma con la cual trabajan en otros lados y la forma con la que trabajan con sus chicos. 
    *Si desea ver todas las graficas puede entrar al siguiente [enlace](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/Analisis.xlsx)*   
 Igual 
