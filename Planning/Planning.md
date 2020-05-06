@@ -272,3 +272,13 @@ Un documento con los resultados del metodo de inspección
 **Artefacto Realizado**
 
 ---
+
+# Metricas
+
+Hasta el dia de hoy, para nuestra segunda entrega tenemos la siguiente contribución de actividadades
+|Nombre|Metrica|Porcentaje|
+|---|---|---|
+|Ariel May|(((9+6)/(9+6))/4)|25|
+|Jose|(((9+6)/(9+6))/4)|25|
+|Nicolas|(((5+6)/(5+6))/4)|25|
+|Leonardo|(((5+6)/(5+6))/4)|25|
