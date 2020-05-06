@@ -1,5 +1,9 @@
 # Segunda Entrega
 
+[Evidencia de la hoja de cotejo de la primera entrega]()
+
+[Evidencia de la hoja de cotejo de la segunda entrega](https://drive.google.com/file/d/1UBE2FgLe44IL5XzrM3WSJgL-V0AckR_X/view?usp=sharing)
+
 ### Requerimientos Especificos
 
 El propósito del proyecto es desarrollar una pieza tecnológica para los maestros para monitorear las actividades que realizan los alumnos con dificultades auditivas, en las areas de matematicas y español con el fin de localizar las áreas en las que un alumno pueda tener más dificultad y poder brindar un reforzamiento, que les permita mejorar su educación.
