@@ -30,18 +30,18 @@ en clase, y poder monitorear los datos obtenidos de la actividad por el alumno.*
 ___
 ## Planeación
 
-La forma que nosotros usamos para poder fue en base a encuestas, ya que esto nos ayudo a poder identificar datos especificos de los alumnos y maestros. Los cuales fueron muy importantes debido
-a que notamos particularidades en tanto a niños como maestros (las todas las entrevistas se encuentran en el siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Surveys)), gracias a esto pudimos notar lo siguiente:   
+La forma en la cual pudimos recabar información fue mediante encuentas a los maestro. Este método fue elegido por nosotros ya que poder tener información certera de la forma en que trabajan, en como motivan a sus alumnos, en que tipo materias utlizan para enseñar, entre otras cosas. Fue entonces que realizamos la siguiente encuesta (en este en [enlace](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/Plantilla%20de%20entrevistas.pdf) .
+Para poder empatizar y conocer un poco más a los chicos, nosotros intentamos realizar unas cuentas, sin embargo, esto no pudo ser posible ya que muchos de ellos no comprendian ciertas palabras o se les hacia muy complicado leer, preferimos por medio de la 
+maestra realizar mejor el método de la entrevista para que pudieramos conocer más al respecto de lo que piensan los niños y conocer debilidades y fortalezas, para asi tener información con la cual poder trabajar.
+*Si desea ver las encuesta de los maestros puede ir al siguiente [enlace]() y para ver las entrevistas de los niños puede dar click [aqui]() para verlas.
+Ya despúes de trabajar con los maestros y tener más información, pudimos realizar las siguientes gráficas.
 ![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%201.PNG)
 ![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%202.PNG)
 ![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%203.PNG)
 ![Aparatos que usan mas](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%204.PNG)
 ![](https://github.com/JoseBaezaP/IHC/blob/master/Surveys/graphics/imagenes/Alumnos%205.PNG)
 
-Con esto podemos ver que muchos de estos niños tinen detalles practicamente en las mismas materias y prefieren aprender de manera practica las cosas,
-ya que prefieren materiales didacticos para poder entender mejor los temas. Es por ello que el sistema que deseamos realizar sea usado en el CAM, para
-que las maestras ya que tiene ventaja debido a que la mayoria de ellas usan sus computadoras, tabletas o telefonos para dar clase, es por ellos que se piensa
-crear este sistema para poder ayudar a las maestras y que los niños le tomen mucho más interes en aprender.
+
 Es posible que dicho sistema pueda ser usado por los niños para que ellos puedan repasar ciertos temas que deseen reforzar antes de ir a sus clases regulares o para poder tener practicar e ir con mas ideas o dudas especificas antes de ir al CAM.   
 *Si desea ver todas las graficas puede entrar al siguiente [enlace](https://github.com/JoseBaezaP/IHC/tree/master/Surveys/graphics)*   
 Para poder realizar las nuevas actividades tenemos asignados los siguientes días:
