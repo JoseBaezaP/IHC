@@ -49,6 +49,11 @@ pero hay nada con el fin de poder ayudar a esta población para mejorar academic
 ### Principal propuesta 
 **Desarrollar una pieza tecnológica para facilitarle al maestro actividades de matemáticas que se realizan
 en clase, y poder monitorear los datos obtenidos de la actividad por el alumno.**
+
+
+### Analisis Del Mercado
+
+Se realizó un documento en el siguiente lnk [Analisis](https://github.com/JoseBaezaP/IHC/blob/master/Deliveries/Analisis_del_Mercado.md)
 ___
 ## Planeación
 
