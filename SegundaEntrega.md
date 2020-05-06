@@ -15,7 +15,7 @@ Identificación de usuarios.
 |3|El sistema deberá permitir el uso de acceso a través de la cuenta google y facebook.|
 
 Registro de usuarios.
-|NR|Descripcion|
+|#R|Descripcion|
 |---|---|
 |1|El sistema deberá tener las opciones para la creación de cuentas para maestros o alumnos.| 
 |2|El sistema deberá contar con un formulacion para la creación de nuevos usuarios de maestros y alumnos.|
@@ -23,7 +23,7 @@ Registro de usuarios.
 
 Creación  de grupos
 
-|NR|Descripcion|
+|#R|Descripcion|
 |---|---|
 |1|Los maestros podrán crear grupos dentro del sistema y se le asignará un nombre del grupo.|
 |2|los maestros podrán agregar alumnos al grupo por medio de un codigo de invitacion.|
@@ -37,7 +37,7 @@ Visualización de grupos.
 |3|Los maestros podrán visualizar gráficas de todas las actividades realizada por sus alumnos.|
 
 Selección de actividades.
-|NR|Descripcion|
+|#R|Descripcion|
 |---|---|
 |1|Las actividades estarán clasificadas por temas, Español, Matemáticas.|
 |2|Las actividades de los temas deberá empezar con una pequeña introducción.|
@@ -218,22 +218,33 @@ Frecuencia de uso: Cada vez que un alumno ingrese a un grupo.
 
 Canal hacia el actor: A través de la aplicación.
 
-Se puede encontrar toda esta informacion son más detalle en la especificación de Requerimientos de software [ERS]()
+Se puede encontrar toda esta informacion son más detalle en la especificación de Requerimientos de software [ERS](https://github.com/JoseBaezaP/IHC/blob/master/Deliveries/Especificacion%20de%20Requisitos%20de%20Software%20v1.1.pdf)
 
 
 ### Trazabilidad de los requisitos
 
 * Identificacion de Usuario
+  
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Matriz/Matriz5.png)
 
 * Registro de Usuarios
 
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Matriz/Matriz6.png)
+
 * Creaccion de grupos
+
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Matriz/Matriz1.png)
 
 * Visualización de grupos
 
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Matriz/Matriz2.png)
+
 * Selección de actividades
 
-Se puede encontrar toda esta informacion en el documento de [matriz de trazabilidad de requisitos]()
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Matriz/Matriz3.png)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Matriz/Matriz4.png)
+
+Se puede encontrar toda esta informacion en el documento de [matriz de trazabilidad de requisitos](https://github.com/JoseBaezaP/IHC/blob/master/Deliveries/Matriz%20de%20trazabilidad%20de%20requisitos%20V2.pdf)
 
 
 # Prototipado de Intefaces
@@ -242,17 +253,20 @@ Se puede encontrar toda esta informacion en el documento de [matriz de trazabili
 
 Para el desarrollo de prototipos se realizó usando la herramienta InVision, que te permite realizar prototipos de alta fidelidad.
 
-Con la información que habiamos obtenido de las encuestas a los maestros de CAM12 y a la maestra Nallelly Sanchez Razo de la organización de Audio Amigo de México que nos estuvo apoyando con informacion, acerca de como trabajan en el estado de México. Se logro hacer la primera versión del prototipo en InVision, el cual se puede encontrar en el siguiente enlace. [Prototipo]()
+Con la información que habiamos obtenido de las encuestas a los maestros de CAM12 y a la maestra Nallelly Sanchez Razo de la organización de Audio Amigo de México que nos estuvo apoyando con informacion, acerca de como trabajan en el estado de México. Se logro hacer la primera versión del prototipo en InVision, el cual se puede encontrar en el siguiente enlace. [Prototipo](https://practicalsession.invisionapp.com/prototype/ck9rnxpny00c70q01efivt67a/play)
 
 ### Guias de Diseño
 
 Para empezar a darle un buen diseño a las interfaces para el prototipo empezamos a investigar y buscar guías de diseño que nos permitan acomodar la información que debíamos plasmar en el prototipo, no nos basamos de uno solo, sino que recopilamos varias guías de diseño para crear en nuestro.
 Además investigamos acerca de la ergonomía del celular, para saber los beneficios que tiene, por ejemplo si la aplicación es vertical, entonces el uso de una o dos manos, puede ser más fácil, sin embargo las interacciones en la parte superior de la pantalla necesitan mayor esfuerzo. Por lo tanto era necesario que las plantillas cumplieran con la organización para el uso del celular en modo vertical.  
 
-![]()
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Prototype/Prototype1.png)
+
 
 Al final, notamos que la mayoría de las plantillas siguen este principio y la forma de acomodar era similar a las anteriores, al investigar más el porqué, es para el usuario además de acceder a las funcionalidades, una organización sigue el principio de proximidad lo que le da a usuario comprender las funcionalidades principales de la pantalla.
 Mientras más difícil se encuentre la funcionalidad es secundaria.
+
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Prototype/Prototype3.png)
 
 ### Diseño de Interacción
 
