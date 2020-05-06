@@ -284,20 +284,20 @@ En toda la interfaz de usuario se trató de  dar la información con la menor pa
 
 Optamos por incluir más imágenes que representen la acciones que realiza ya sea un botón, además eso permite que los usuarios puedan cometer menos errores al momento de usar la aplicación, ya que se asocia a cosas que ellos ya conocen.
 
-![]()
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Prototype/Prototype5.png)
 
 *3ra Dimensión - Espacio:*
 
 Al ser una aplicación para dispositivos móvil, las principales acciones por parte del usuario es la pantalla táctil, por lo que fue necesario utilizar la ergonomía del celular, para que el usuario pueda usar la aplicación si problemas.
 Se decidió realizar el desarrollo del prototipo de manera horizontal, ya que de esta manera se puede usar las dos manos y abarcar toda la pantalla, o usar solo una mano y no tendrias complicaciones. 
 
-![]()
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Prototype/Prototype4.png)
 
 *4ta Dimensión - Tiempo*
 
 Motivando a los alumnos cuando acaban un ejercicio para mejorar su puntuación o realizando otro actividad. 
 
-![]()
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Prototype/Prototype.png)
 
 # Metodos de Inspección
 
