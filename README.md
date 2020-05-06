@@ -16,10 +16,10 @@ Distribucion de discapacidades en Mexico 2014
 Distribución porcentual de las discapacidades, por entidad federativa en Mexico 2014
 ![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Grafica2.png)
 
-En una muestra de 2,285 pacientes utilizando la información de los expedientes incluidos en la base de datos SIEAAYPRODA 2003-2011.
+En Mérida se realizo una muestra de 2,285 pacientes utilizando la información de los expedientes incluidos en la base de datos SIEAAYPRODA 2003-2011.
 Se obtuvieron los siguientes resultados.
 
-![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Grafica3.png)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/grafica3.png)
 
 
 # Problemas que causa la perdida de audición
@@ -223,7 +223,7 @@ Durante el receso logramos encuestar a las maestras. Ademas debimos trascibir la
 |Nicolas Gala|Realizar encuesta y trascribirla|
 
 ##### Modificación del Objectivo 
-Estas actividades se pueden visualizar con las detalle en el [planning]()
+Estas actividades se pueden visualizar con las detalle en el [planning](https://github.com/JoseBaezaP/IHC/blob/master/Planning/Planning.md)
 
 - 4 Redefinir objetivo
 - 5 Reunion con la maestra del CAM-12
@@ -234,10 +234,10 @@ Estas actividades se pueden visualizar con las detalle en el [planning]()
 
 | Nombre   |      Metrica     |   Porcentaje   |  
 |:--------:|:----------------:|:-----:|
-| Leonardo | (((3+4)/(3+5))/4)+.01  | 24  |
-| Jose     | (((3+5)/(3+5))/4)+.01  | 26  |
-| Ariel    | (((3+5)/(3+5))/4)+.01  | 26  |
-| Nicolas  | (((3+4)/(3+5))/4)+.01  | 24  |
+| Leonardo | (((3+4)/(3+5))/4)  | 24  |
+| Jose     | (((3+5)/(3+5))/4) | 26  |
+| Ariel    | (((3+5)/(3+5))/4) | 26  |
+| Nicolas  | (((3+4)/(3+5))/4)  | 24  |
 
 #### Segunda Entrega
 
