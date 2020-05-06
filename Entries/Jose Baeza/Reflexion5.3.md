@@ -1,0 +1,2 @@
+#Planning of deliveries
+To be able to work better as a team, since due to the pandemic we had to carry out a much more detailed planning because, since we are not together, everyone must move forward so that the project does not have any trace, since having delivery dates and appointments Specific to work with certain experts, that is why we had to have a better control of all activities and have a good development of the project.
