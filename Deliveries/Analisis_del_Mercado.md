@@ -7,7 +7,7 @@ Presentando un tablero de comunicacion por pictogramas o imagenes asociados que 
 
 Es desarrollado principalmente para personas con autismo, pero su personalizacion a permitido el uso para otras personas, principalmente niños.
 
-![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Market analysis/emintza.jpg)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Market%20analysis/emintza.jpg)
 
 Puedes encontar más informacion de E-mitza [Aquí](http://www.fundacionorange.es/aplicaciones/e-mintza/)
 
@@ -16,7 +16,7 @@ Es una web app donde puedes encontrar ejercicios básicos para niños de primari
 
 Sin embargo al ser Web, no tiene un buen diseño para dispositivos moviles.
 
-![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Market analysis/Juegos_Infantiles.png)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Market%20analysis/Juegos_Infantiles.png)
 
 Puedes encontrar mas informacion de Juegos Infantiles [Aquí](https://juegosinfantiles.bosquedefantasias.com/)
 
@@ -30,6 +30,6 @@ Contienen diversos temas como:
 - MATEMÁTICAS (Sumas, restas, figuras geométricas, matemáticas aplicadas...)
 - INGLÉS (Números, colores, familia, la casa...)
 
-![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Market analysis/Aprende_primaria_jugando.png)
+![](https://github.com/JoseBaezaP/IHC/blob/master/Image/Market%20analysis/Aprende_primaria_jugando.png)
 
 Puedes encontrar mas informacion de Aprende Primaria Jugando [Aquí](https://apps.apple.com/co/app/aprende-primaria-jugando/id916275158)
