@@ -10,5 +10,5 @@ Actividades realizadas:
   
 * [Poster](https://github.com/JoseBaezaP/IHC/blob/master/Entrega%20final/infografia%202.png)
   
-* [Video]()
+* [Video](https://www.youtube.com/watch?v=S3KicWer_vM&feature=youtu.be)
   
